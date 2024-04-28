@@ -104,7 +104,7 @@ ScrollReveal().reveal(".service-description", {
   ...scrollRevealOption,
   delay: 300,
 });
-ScrollReveal().reveal(".service-flex", {
+ScrollReveal().reveal(".service-grid", {
   ...scrollRevealOption,
   delay: 500,
 });
